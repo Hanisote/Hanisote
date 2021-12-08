@@ -6,6 +6,6 @@
 - &#127932; Ask me about music any kind lol 
 - 📫 How to reach me: hanniisela@gmail.com
 - 😄 Pronouns: she/her
-- &#127931; Fun fact: A fun fact about me is that i play the cello 
+- &#127931;  A fun fact about me is that i play the cello 
 - &#x1F3AC;My favorite movie is Moulin Rouge
 
