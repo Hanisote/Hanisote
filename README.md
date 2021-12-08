@@ -7,3 +7,4 @@
 - 📫 How to reach me: hanniisela@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: A fun fact about me is that i play the cello 
+- My favorite movie is Moulin Rouge
