@@ -1,10 +1,11 @@
 ### Hi there 👋 My name is Hannia 
 
-- 🔭 I’m currently working on my Code Chica project.
-- 🌱 I’m currently learning how t code and remove bugs.
+- &#128187; I’m finished my Code Chica++ project.
+- &#127802; I’m learning how to code and remove bugs.
 - 🤔 I’m looking for help with any kind of coding and any tips to learn
-- 💬 Ask me about music any kind lol 
+- &#127932; Ask me about music any kind lol 
 - 📫 How to reach me: hanniisela@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: A fun fact about me is that i play the cello 
-- My favorite movie is Moulin Rouge
+- &#127931; Fun fact: A fun fact about me is that i play the cello 
+- &#x1F3AC;My favorite movie is Moulin Rouge
+
